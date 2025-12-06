@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "无事小站",
-		"description": "没事的没事的"
+		"title": "YYsuni",
+		"description": "YYsuni 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -31,14 +31,5 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
-	"socialButtons": [
-		{
-			"id": "button-1765037691340",
-			"type": "email",
-			"value": "",
-			"label": "",
-			"order": 1
-		}
-	]
+	"currentArtImageId": "a46372ff45bc5524"
 }
