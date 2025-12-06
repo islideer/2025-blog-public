@@ -1,8 +1,7 @@
 {
 	"meta": {
-		"title": "无事小站",
-		"description": "个人博客，记录",
-		"username": "huangxu"
+		"title": "YYsuni",
+		"description": "YYsuni 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -33,13 +32,5 @@
 		}
 	],
 	"currentArtImageId": "a46372ff45bc5524",
-	"socialButtons": [
-		{
-			"id": "button-1765038559546",
-			"type": "email",
-			"value": "huangxu@565605.xyz",
-			"label": "",
-			"order": 1
-		}
-	]
+	"clockShowSeconds": true
 }
