@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。"
+		"title": "唐糖糖",
+		"description": "唐糖糖的个人博客，记录点滴"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -32,5 +32,5 @@
 		}
 	],
 	"currentArtImageId": "a46372ff45bc5524",
-	"clockShowSeconds": true
+	"clockShowSeconds": false
 }
