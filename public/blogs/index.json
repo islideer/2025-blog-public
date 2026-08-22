@@ -7,6 +7,13 @@
     "summary": ""
   },
   {
+    "slug": "dgit-git",
+    "title": "跑在 Cloudflare Workers 上的 Git 服务器",
+    "tags": [],
+    "date": "2026-08-22",
+    "summary": ""
+  },
+  {
     "slug": "zzz-proxy",
     "title": "绝区零的助手开发",
     "tags": [
